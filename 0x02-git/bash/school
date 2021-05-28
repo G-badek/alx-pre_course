@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo "School of alx"
-||||||| b4aca93
-echo "School"
-=======
+echo "The school is open!"
